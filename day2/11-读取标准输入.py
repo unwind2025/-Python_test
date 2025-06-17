@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月25日15时46分39秒
-# xxx@qq.com
+
 
 def change_alpha():
     a = input('请输入内容')
