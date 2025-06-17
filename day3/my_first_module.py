@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2024年12月26日11时17分26秒
-# xxx@qq.com
 
 
 def print_line(char, times):

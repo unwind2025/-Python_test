@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月26日16时01分12秒
-# xxx@qq.com
+
 name_list = ["zhangsan", "lisi", "wangwu", "wangxiaoer"]
 num_list = [6, 8, 4, 1, 10]
 

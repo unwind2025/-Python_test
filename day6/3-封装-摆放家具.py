@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2024年12月30日09时57分16秒
-# xxx@qq.com
 class HouseItem:
     def __init__(self, name, area):
         """

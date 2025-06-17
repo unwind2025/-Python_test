@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2025年01月02日14时07分14秒
-# xxx@qq.com
+
 import random
 import time
 import sys

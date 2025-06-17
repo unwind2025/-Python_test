@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月30日15时25分24秒
-# xxx@qq.com
+
 class MusicPlayer(object):
     instance = None  # 用来保存对象的
 

@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月30日11时18分59秒
-# xxx@qq.com
+
 class A:
     def test(self):
         print('A test')

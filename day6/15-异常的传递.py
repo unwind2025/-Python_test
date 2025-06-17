@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月30日16时11分46秒
-# xxx@qq.com
+
 def demo1():
     num = int(input("输入整数："))
     print('I am demo1')

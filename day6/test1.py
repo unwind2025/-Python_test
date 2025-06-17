@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月30日11时29分42秒
-# xxx@qq.com
+
 class Parent(object):
     def __init__(self, name, *args, **kwargs):  # 为避免多继承报错，使用不定长参数，接受参数
         print('parent的init开始被调用')

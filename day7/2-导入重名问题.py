@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月31日09时46分11秒
-# xxx@qq.com
+
 from module1 import test1
 from module2 import test1 as module2_test1
 import random

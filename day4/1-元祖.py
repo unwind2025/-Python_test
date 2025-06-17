@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月27日09时45分10秒
-# xxx@qq.com
+
 
 def use_tuple():
     info_tuple = ("zhangsan", 18, 1.75, 'zhangsan')

@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月27日16时14分59秒
-# xxx@qq.com
+
 def demo(num, num_list):
 
     print("函数内部代码")

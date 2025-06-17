@@ -1,9 +1,3 @@
-# 作者: 王道 龙哥
-# 2024年12月30日14时21分23秒
-# xxx@qq.com
-# 作者: 王道 龙哥
-# 2024年12月30日14时08分52秒
-# xxx@qq.com
 
 class Parent:
     def __init__(self, height):

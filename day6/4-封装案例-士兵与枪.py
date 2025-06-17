@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月30日10时36分46秒
-# xxx@qq.com
+
 class Gun:
     def __init__(self, model):
         self.model = model

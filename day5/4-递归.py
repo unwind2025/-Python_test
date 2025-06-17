@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月28日09时57分59秒
-# xxx@qq.com
+
 import sys
 
 sys.setrecursionlimit(100000)

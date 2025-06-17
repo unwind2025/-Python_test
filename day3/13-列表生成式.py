@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月26日16时10分28秒
-# xxx@qq.com
+
 
 my_list = [x for x in range(10)]
 

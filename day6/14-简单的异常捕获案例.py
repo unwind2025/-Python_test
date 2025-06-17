@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月30日15时45分04秒
-# xxx@qq.com
+
 import test_exception_module
 
 

@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月26日14时12分50秒
-# xxx@qq.com
+
 
 
 def no_change(num):  # num=a

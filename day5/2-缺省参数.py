@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月28日09时32分28秒
-# xxx@qq.com
+
 def print_info(name, title="", gender=True):
     """
 

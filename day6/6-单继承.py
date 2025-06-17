@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月30日11时00分35秒
-# xxx@qq.com
+
 class Animal:
 
     def __init__(self, name):

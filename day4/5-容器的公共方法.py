@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2024年12月27日15时25分43秒
-# xxx@qq.com
 
 def list_set_slice():
     test_list = [1, 2, 3, 4, 5, 6]

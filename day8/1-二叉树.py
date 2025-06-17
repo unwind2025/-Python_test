@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年01月02日10时48分21秒
-# xxx@qq.com
 
 class Node:
     def __init__(self, elem=-1, lchild=None, rchild=None):

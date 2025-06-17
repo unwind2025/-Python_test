@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2024年12月26日15时39分17秒
-# xxx@qq.com
+
 
 
 name_list = ["zhangsan", "lisi", "wangwu"]
